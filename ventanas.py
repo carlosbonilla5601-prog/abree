@@ -1,3 +1,4 @@
+print("crear ventanas con una accion")
 import tkinter as tk
 def mostrar_mensaje():
     ventana_mensaje = tk.Toplevel()
